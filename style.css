@@ -1,0 +1,33 @@
+html {
+    padding: .5rem;
+    margin: 2rem;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: cursive;
+    text-align: center;
+}
+
+.First {
+    border: 0.5rem solid black;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.one{
+   height: 53.5rem;
+}

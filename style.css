@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-color: aliceblue;
+    background-color: beige;
 }
 
 h1 {
@@ -23,6 +23,10 @@ h3{
     font-size: 2rem;
 }
 
+button{
+    background-color: burlywood;
+}
+
 .Posts{
     display: flex;
 }
@@ -30,7 +34,7 @@ h3{
 .First {
     border: 0.5rem solid black;
     flex: 33%;
-  padding: 5px;
+    padding: 5px;
 }
 
 .one{
